@@ -1,0 +1,15 @@
+.cabecalho{
+    background-color: aquamarine;
+}
+.principal{
+    background-color: blue;
+}
+.rodape{
+    background-color: black;
+    color: aliceblue;
+}
+#download.jpeg{
+    width: 400px;
+    border: 2px black;
+}
+
