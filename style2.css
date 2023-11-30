@@ -17,6 +17,16 @@
     border-color: brown;
     border-style: double;
 }
+#link-flamengo{
+font-size:20px;
+color: crimson;
+text-decoration:none;
+}
+#link-flamengo:hover{
+    font-size:30px;
+    color: mediumvioletred;
+    text-decoration:double;
+    }
 
 
 
