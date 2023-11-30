@@ -1,5 +1,6 @@
  #imagrem-flamengo{
     width:200px ;
+ }
 .cabecalho{
     background-color: brown;
 }
@@ -14,8 +15,12 @@
     width: 400px;
     border: 2px black;
 }
-#link-praia
- }
+#link-praia{
+    font-size:20px;
+    color: aqua;
+    text-decoration:none;
+}
+ 
 
   
 
