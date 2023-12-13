@@ -11,9 +11,9 @@
 
 }
 .icone{
-    width: 5px;
+    width: 15px;
     border: 5px;
-    border-radius: 9px;
+    border-radius: 10px;
     border-color: brown;
     border-style: double;
 }
